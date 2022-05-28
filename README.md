@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sweety07a
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning compute's..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning computer's
+- 📫 How to reach me in linked https://www.linkedin.com/in/sweety-agrawal-135823208/
 
 <!---
 sweety07a/sweety07a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
